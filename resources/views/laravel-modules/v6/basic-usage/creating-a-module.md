@@ -1,14 +1,14 @@
 ---
-title: Creating a module
+title:multi-vendor
 ---
 
 Creating a module is simple and straightforward. Run the following command to create a module.
 
 ``` bash
-php artisan module:make <module-name>
+php artisan module:make <multi-vendor>
 ```
 
-Replace `<module-name>` by your desired name.
+Replace `<multi-vendor>` by your desired name.
 
 It is also possible to create multiple modules in one command.
 
