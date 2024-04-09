@@ -1,5 +1,5 @@
 ---
-title: Creating a module
+title:multi vendor
 ---
 
 Creating a module is simple and straightforward. Run the following command to create a module.
